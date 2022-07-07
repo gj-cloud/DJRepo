@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author kreddy
- *
- */
-module stringanagram {
-}
